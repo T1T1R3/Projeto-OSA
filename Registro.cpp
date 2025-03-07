@@ -1,5 +1,7 @@
 #include "Registro.hpp"
 #include <iostream>
+#include <cstring>
+#include <algorithm> 
 #include <sstream>
 
 using namespace std;
